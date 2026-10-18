@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36509841084",
+    "project_id": "cinefilospruebadb",
+    "storage_bucket": "cinefilospruebadb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36509841084:android:71505283744b84035f02b9",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_integracion_bd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTlh6S8MhdOJ4ELUGYddErvIl3eNoOng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
